@@ -1,0 +1,2 @@
+#!/bin/bash
+isudo chown --from=guillaume betty hello
