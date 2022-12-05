@@ -9,3 +9,4 @@
 8. Save current state of directory
 9. Duplicate last line
 10.No more javascript
+11.Don't just count your directories, make your directories count
