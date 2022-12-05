@@ -1,4 +1,4 @@
-#!/bin/bas
-Writing a script that prints “Hello, World”
-confused smiley
-display content
+Hello World
+Confused smiley
+Display file
+Display two files
