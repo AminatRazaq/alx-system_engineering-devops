@@ -6,3 +6,4 @@
 5. Display first lines
 6. Display third lines
 7. New file Best School
+8. Save current state of directory
