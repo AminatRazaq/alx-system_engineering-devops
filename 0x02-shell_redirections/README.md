@@ -22,3 +22,4 @@
 21. esreveR
 22. DJ Cut Killer
 23. Empty casks make the most noise
+24. A gif is worth ten thousand words
