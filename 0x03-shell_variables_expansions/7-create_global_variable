@@ -1,2 +1,2 @@
 #!/bin/bash
-BEST=School "\n" BEST=School
+$'BEST\nBEST'
