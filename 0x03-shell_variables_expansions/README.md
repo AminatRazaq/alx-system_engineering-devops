@@ -12,3 +12,4 @@ A script that prints the result of POWER divided by DIVIDE
 A script that displays the result of BREATH to the power LOVE
 A script that converts a number from base 2 to base 10
 A script that prints all possible combinations of two letters, except oo
+A script that prints a number with two decimal places
