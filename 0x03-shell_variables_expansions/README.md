@@ -16,3 +16,4 @@ A script that prints a number with two decimal places
 A script that converts a number from base 10 to base 16
 A script that encodes and decodes text using the rot13 encryption
 A script that prints every other line from the input
+A shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result
