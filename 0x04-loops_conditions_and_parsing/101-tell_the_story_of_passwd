@@ -3,7 +3,7 @@
 # using the while loop + IFS.
 # Tell the story of passwd
 
-while IFS=':' read username password uid gid info home shell
+while IFS=':' read -r username password uid gid info home shell
 do
   echo "The user $username is part of the $gid gang,"\
   "lives in $home and rides $shell."\
