@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+# bash script that only shows listening sockets
+# + that shows the PID and name of the program to which each socket belongs
+
+netstart -l --program
